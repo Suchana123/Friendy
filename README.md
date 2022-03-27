@@ -1,0 +1,2 @@
+# Friendy
+Angular Application
